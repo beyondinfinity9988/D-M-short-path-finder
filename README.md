@@ -46,6 +46,9 @@ The program then prints the optimal route and line changes.
 - Destination: `INDERLOK`  
   Output: Sequence of stations from Shahdra to Inderlok with the line name and switches.
 
+  <img width="359" height="494" alt="image" src="https://github.com/user-attachments/assets/c55770e8-c18a-40f6-af01-c7ec38e13b40" />
+
+
 ## Requirements
 
 - C++17-compatible compiler (e.g., `g++`).
