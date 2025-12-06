@@ -23,11 +23,10 @@ It supports autocomplete for station names and computes the shortest path betwee
   - Edges connect adjacent stations with travel time as weight.
 - Dijkstra’s algorithm finds the shortest path and the route is printed station by station, including line transitions.
 
-RUN
-g++ -std=c++17 -O2 Main.cpp -o metro
-./metro
-## Build and Run
 
+## Build and Run
+g++ -std=c++17 -O2 delhimetrodbcode.cpp -o delhimetrodbcode
+./delhimetrodbcode
 
 
 You will be prompted to:
